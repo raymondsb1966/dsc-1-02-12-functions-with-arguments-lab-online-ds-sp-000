@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="1" failures="0" name="pytest" skips="0" tests="1" time="0.471"><testcase classname="" file="pytests/test_index.py" name="pytests.test_index" time="0"><error message="collection failure">pytests/test_index.py:6: in &lt;module&gt;
+    import ipynb.fs.full.index
+index.ipynb:110: in &lt;module&gt;
+    &quot; &apos;url&apos;: &apos;https://www.yelp.com/biz/frontier-restaurant-albuquerque-2?adjust_creative=SYc8R4Gowqru5h4SBKZXsQ&amp;utm_campaign=yelp_api_v3&amp;utm_medium=api_v3_business_search&amp;utm_source=SYc8R4Gowqru5h4SBKZXsQ&apos;}&quot;
+index.ipynb:105: in restaurant_name
+    &quot; &apos;phone&apos;: &apos;+15052660550&apos;,\n&quot;,
+E   KeyError: &apos;&apos;</error></testcase></testsuite>
